@@ -2,9 +2,9 @@
 <h3 align="center">A Game Developer from EGC Extreme Unnreal Technology</h3>
 <img align= "right" alt="Coding" width="400"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBleG5tdnhlemJoNmgzazVqaHY2ODFmdDMzZ3pjdnl0c3hxejlvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kentrussel123&label=Profile%20views&color=0e75b6&style=flat" alt="kentrussel123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kentrussel-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kentrussel-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kentrussel123" alt="kentrussel123" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kentrussel-dev" alt="kentrussel-dev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
