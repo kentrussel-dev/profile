@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Networking/Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kentrussel123](https://github.com/kentrussel123)
+- 👨‍💻 All of my projects are available at [https://github.com/kentrussel123](https://github.com/kentrussel-dev)
 
 - 💬 Ask me about **ReactJS, VueJS, C#, Golang**
 
